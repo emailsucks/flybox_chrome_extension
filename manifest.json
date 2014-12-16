@@ -1,7 +1,7 @@
 {
-  "name": "Gmail.js",
+  "name": "FlyBox",
   "version": "0.1",
-  "description": "Hello World Gmail chrome extension",
+  "description": "FlyBox Chrome Extension",
   "content_scripts": [
     {
       "matches": ["https://*.google.com/*"],
